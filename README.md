@@ -1,4 +1,4 @@
-<img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/>
+![gif animado](https://giphy.com/embed/L7Lm7JSWSRkW5Vvjjg/video)
 
 ```shell
  { “name” : “Carlos Ruiz”,

@@ -1,4 +1,4 @@
-![gif animado](https://giphy.com/embed/L7Lm7JSWSRkW5Vvjjg/video)
+![gif animado](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 ```shell
  { “name” : “Carlos Ruiz”,

@@ -1,4 +1,4 @@
-![gif animado](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
+![gif animado](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 ```shell
  { “name” : “Carlos Ruiz”,
@@ -68,6 +68,7 @@
 Hi, I am a computer engineering student in my final year of university. I have a passion for technology and have been honing my skills in web development through my experience with the PERN stack (PostgreSQL, Express, React and Node.js). I am constantly looking for ways to improve and grow as a developer, which is why I have taken it upon myself to study game development using Lua. I am driven and determined to become a successful software engineer and I am confident that my strong technical skills and self-motivated learning approach will help me reach my goals.
 </br>
 
+![gif animado](https://media.giphy.com/media/13V60VgE2ED7oc/giphy.gif)
 </br>
 
 ### Github Stats:
